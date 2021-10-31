@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.toolbar {
+  width: 800px;
+  border: 1px solid #e1e1e1;
+  background-color: #e1e1e1;
+  padding: 3px;
+  margin-top: 3rem;
+}
+.editor {
+  width: 800px;
+  padding: 3px;
+  border: 1px solid #e1e1e1;
+}
+
+.preview {
+  width: 800px;
+  padding: 3px;
+  border: 1px solid #e1e1e1;
+}
